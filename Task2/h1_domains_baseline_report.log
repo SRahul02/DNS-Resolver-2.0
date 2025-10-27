@@ -1,0 +1,117 @@
+--- Starting Task B Baseline Measurement ---
+Using Domain File: h1_domains.txt
+------------------------------------------
+SUCCESS: 2brightsparks.co.uk (43 ms)
+SUCCESS: 41latitude.com (35 ms)
+SUCCESS: 7dfps.com (43 ms)
+SUCCESS: advertos.ru (895 ms)
+SUCCESS: afairjudgement.com (47 ms)
+SUCCESS: afresnohomeinspector.com (763 ms)
+SUCCESS: alchemedialtd.com (43 ms)
+SUCCESS: alenpuaca.com (367 ms)
+SUCCESS: amorefieldlife.com (39 ms)
+SUCCESS: aqvr.com (375 ms)
+SUCCESS: asadventure.com (271 ms)
+SUCCESS: astrumonline.ru (811 ms)
+FAIL: auqzzx.com
+SUCCESS: australiatradenow.com (43 ms)
+SUCCESS: autofirenze.biz (35 ms)
+SUCCESS: b-matrix.com (167 ms)
+SUCCESS: bikesandtransit.com (103 ms)
+SUCCESS: blueridgelife.com (35 ms)
+SUCCESS: buynowfromusa.com (43 ms)
+SUCCESS: camcard.com (99 ms)
+SUCCESS: caricsports.com (107 ms)
+SUCCESS: cetsi.fr (35 ms)
+FAIL: chonvn.com
+FAIL: chuamatsua.com
+FAIL: coutureauchocolat.com
+SUCCESS: daehepharma.com (191 ms)
+SUCCESS: datepanchang.com (99 ms)
+SUCCESS: diamondknot.com (35 ms)
+FAIL: ditrblog.com
+FAIL: dj-producer-j-mbargo.com
+FAIL: djoncbjcmv
+SUCCESS: door2games.com (99 ms)
+FAIL: effexdjs.com
+SUCCESS: energybulbs.co.uk (399 ms)
+FAIL: eugenbotnar.com
+SUCCESS: ex-jw.org (103 ms)
+SUCCESS: fini.net (287 ms)
+SUCCESS: forpsi.net (667 ms)
+SUCCESS: gamemob.com (259 ms)
+SUCCESS: gensee.com (235 ms)
+FAIL: globalpoliticalspectrum.com
+FAIL: gmxwnlajnl
+SUCCESS: group14eng.com (35 ms)
+SUCCESS: gusbi.com (415 ms)
+SUCCESS: healthnews4you.com (103 ms)
+SUCCESS: hemcolubricants.com (511 ms)
+SUCCESS: hornil.com (255 ms)
+SUCCESS: house-sg.com (579 ms)
+SUCCESS: i-butterfly.ru (327 ms)
+SUCCESS: iag-inc.com (491 ms)
+SUCCESS: informarexresistere.fr (399 ms)
+SUCCESS: interfloracentral.co.uk (727 ms)
+FAIL: isatap
+FAIL: isilon
+SUCCESS: jantv.in (35 ms)
+SUCCESS: junio.com (611 ms)
+SUCCESS: kathihill.com (263 ms)
+SUCCESS: kennethehartman.com (47 ms)
+SUCCESS: kh.ua (39 ms)
+SUCCESS: khsm.ru (39 ms)
+FAIL: linksplash.info
+SUCCESS: livelinks.com (43 ms)
+SUCCESS: localhost.re (39 ms)
+SUCCESS: lozo.com (327 ms)
+SUCCESS: luckypuppygames.com (347 ms)
+SUCCESS: memeblender.com (111 ms)
+SUCCESS: mesites.co.za (583 ms)
+SUCCESS: michiganbulb.com (39 ms)
+FAIL: monsterhomesecuritystore.com
+FAIL: mptrmkwart
+SUCCESS: mwzip.com (339 ms)
+FAIL: mysearch-online.com
+SUCCESS: newstetic.com (43 ms)
+FAIL: niceinternetmoney.ru
+FAIL: o-ov.com
+SUCCESS: ondemandappliancerepair.com (379 ms)
+SUCCESS: owlcreek.com (35 ms)
+FAIL: pbprofile.com
+FAIL: phi-pe.com
+SUCCESS: pictures-thailand.com (35 ms)
+SUCCESS: pieceinch.com (99 ms)
+SUCCESS: portclydegeneralstore.com (107 ms)
+SUCCESS: ppsuika.ac.id (35 ms)
+FAIL: probigbets.com
+SUCCESS: progettogiovani.pd.it (47 ms)
+SUCCESS: radioterminal.ru (839 ms)
+SUCCESS: reprosystems.ru (367 ms)
+FAIL: retiragroup.com
+SUCCESS: rtsab.com (387 ms)
+FAIL: running-sigi.de
+SUCCESS: sdccdonline.net (31 ms)
+SUCCESS: sheltercoveinn.com (591 ms)
+SUCCESS: shivalikprints.com (307 ms)
+SUCCESS: shqqaa.com (55 ms)
+SUCCESS: simternet.com (35 ms)
+FAIL: somode.com
+SUCCESS: stunninggirls.net (35 ms)
+SUCCESS: toaskfuture.com (35 ms)
+FAIL: tottenhamhk.com
+SUCCESS: triggerfish.se (423 ms)
+FAIL: tuhafhaberler.com
+FAIL: uahoy.net
+FAIL: us.tf
+FAIL: wpad
+SUCCESS: wrestlingfanssuck.com (39 ms)
+SUCCESS: zzxu.cn (503 ms)
+-------------------------------------
+Task B: Baseline Measurement Summary
+-------------------------------------
+Total Queries: 106
+Successful Resolutions: 76
+Failed Resolutions: 30
+Average Lookup Latency: 235.57 ms
+Average Throughput: 4.24 queries/sec

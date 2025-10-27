@@ -1,0 +1,117 @@
+--- Starting Task B Baseline Measurement ---
+Using Domain File: h3_domains.txt
+------------------------------------------
+SUCCESS: abmcare.com (51 ms)
+SUCCESS: anvilnetworksolutions.net (43 ms)
+SUCCESS: archiportale.com (43 ms)
+SUCCESS: arcoat.com (511 ms)
+FAIL: asseenontvlaunchpad.com
+SUCCESS: autopareri.com (47 ms)
+FAIL: bbqinjector.com
+SUCCESS: begleyhutton.com (495 ms)
+FAIL: bigliettieventi.info
+SUCCESS: bmw-parts.ru (887 ms)
+SUCCESS: bookingnest.com (111 ms)
+FAIL: callcomm.info
+SUCCESS: cdmail.fr (867 ms)
+SUCCESS: ceskykutil.cz (607 ms)
+SUCCESS: charityjob.co.uk (43 ms)
+FAIL: chekiang.info
+FAIL: chenghuavideo.asia
+SUCCESS: cia.it (455 ms)
+SUCCESS: ciber.com (71 ms)
+FAIL: clickdownloadfiles.com
+FAIL: consumerreviews24.com
+SUCCESS: cosmeticaestheticsurgery.com (119 ms)
+FAIL: crsgfk.de
+SUCCESS: currencyrates.org (399 ms)
+FAIL: cushinglawoffices.com
+FAIL: cuteteenschoolgirlz.com
+SUCCESS: de.vu (111 ms)
+SUCCESS: dilw.ie (111 ms)
+FAIL: djoncbjcmv
+FAIL: dock2office.com
+FAIL: drglendza.co.rs
+SUCCESS: dricom-hosting.nl (459 ms)
+SUCCESS: e-daily.gr (207 ms)
+SUCCESS: e-hps.com (63 ms)
+SUCCESS: ecolems.com (55 ms)
+SUCCESS: eggcityradio.com (303 ms)
+SUCCESS: egov.sy (455 ms)
+SUCCESS: fmnara.com (671 ms)
+SUCCESS: freeditorial.com (51 ms)
+SUCCESS: ftf.com (67 ms)
+SUCCESS: gadanguides.com (735 ms)
+FAIL: gadgetgearpro.com
+SUCCESS: gardenofwords.com (51 ms)
+FAIL: get-webby.com
+SUCCESS: ghimpele.ro (107 ms)
+SUCCESS: giuseppelivraghi.it (439 ms)
+FAIL: gmxwnlajnl
+SUCCESS: gregginn.com (107 ms)
+SUCCESS: gxjbsj.com (315 ms)
+FAIL: hayalforum.net
+SUCCESS: hdcric.com (43 ms)
+FAIL: hralda.info
+SUCCESS: hutago.com (247 ms)
+SUCCESS: iael.com (255 ms)
+FAIL: isatap
+SUCCESS: ishidatic.com (295 ms)
+FAIL: isilon
+FAIL: laigang001.com
+FAIL: marilynlingerie.com
+FAIL: mechachal.org
+SUCCESS: medipacademy.com (55 ms)
+SUCCESS: metar.gr (455 ms)
+SUCCESS: michaelbyers.org (167 ms)
+SUCCESS: minecraftserverdeals.com (51 ms)
+SUCCESS: monitis.com (255 ms)
+SUCCESS: morban.co.uk (427 ms)
+FAIL: mptrmkwart
+SUCCESS: nasaspaceflight.com (51 ms)
+SUCCESS: ncees.org (47 ms)
+SUCCESS: noblewomanhood.com (39 ms)
+SUCCESS: note-so-easy.co.za (43 ms)
+SUCCESS: oaister.org (299 ms)
+FAIL: pahibu.net
+SUCCESS: pet-connect.ru (867 ms)
+SUCCESS: polymth.com (51 ms)
+SUCCESS: romney.com (359 ms)
+SUCCESS: rterc.in (63 ms)
+SUCCESS: sailor.pl (455 ms)
+FAIL: sarahpartridge.net
+SUCCESS: sendrakhizonline.com (115 ms)
+SUCCESS: shishioh.info (43 ms)
+FAIL: silveropt.ru
+FAIL: skyhightmatter.info
+SUCCESS: sonoma-marinfair.org (47 ms)
+SUCCESS: stkpro.ru (679 ms)
+SUCCESS: synchchaos.com (343 ms)
+SUCCESS: synrc.com (47 ms)
+SUCCESS: tangkas888.com (107 ms)
+SUCCESS: tawali.com (103 ms)
+SUCCESS: teachmyass.info (579 ms)
+SUCCESS: teleskill.it (59 ms)
+FAIL: tenant-internet.com
+SUCCESS: texasbeyondhistory.net (671 ms)
+SUCCESS: topbarbee.com (51 ms)
+FAIL: trackcheatingspouse.com
+SUCCESS: uca.edu (375 ms)
+SUCCESS: urbannetwork.co.uk (107 ms)
+SUCCESS: verlockeshop.de (407 ms)
+FAIL: video-peche-poisson.fr
+FAIL: vietcapitaltour.com
+SUCCESS: virtualjerusalem.com (39 ms)
+SUCCESS: vlielandoutdoorcenter.nl (395 ms)
+SUCCESS: vpndefender.com (335 ms)
+FAIL: wpad
+SUCCESS: ximangquantrieu.com (163 ms)
+SUCCESS: zpav.pl (43 ms)
+-------------------------------------
+Task B: Baseline Measurement Summary
+-------------------------------------
+Total Queries: 106
+Successful Resolutions: 72
+Failed Resolutions: 34
+Average Lookup Latency: 254.00 ms
+Average Throughput: 3.93 queries/sec

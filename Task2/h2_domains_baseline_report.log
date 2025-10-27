@@ -1,0 +1,117 @@
+--- Starting Task B Baseline Measurement ---
+Using Domain File: h2_domains.txt
+------------------------------------------
+SUCCESS: 51cdngo.com (999 ms)
+SUCCESS: 7sports.jp (307 ms)
+SUCCESS: a-loud.com (191 ms)
+SUCCESS: alkoholiker-clan.de (559 ms)
+SUCCESS: alltransport.ru (951 ms)
+FAIL: ambassadorsspfhf.org
+SUCCESS: amedeos.net (91 ms)
+SUCCESS: androgyn.org (667 ms)
+FAIL: asip.es
+FAIL: aspiringwriter.ca
+SUCCESS: atomicbase.com (427 ms)
+FAIL: bek.ir
+SUCCESS: bigjournalism.com (27 ms)
+SUCCESS: brfone.com (527 ms)
+SUCCESS: brown.edu (311 ms)
+FAIL: c3budiman.tk
+SUCCESS: capella.edu (99 ms)
+SUCCESS: casco.com (87 ms)
+SUCCESS: cellularfactory.com (275 ms)
+SUCCESS: cncdesign.co.kr (779 ms)
+SUCCESS: congsoxanh.com (31 ms)
+SUCCESS: consejodentistas.org (307 ms)
+FAIL: cornesoft.com
+SUCCESS: datadikdki.net (31 ms)
+FAIL: djoncbjcmv
+SUCCESS: doommovie.com (31 ms)
+SUCCESS: elettronix.com (31 ms)
+FAIL: fanzi.pl
+SUCCESS: fauzanalfi.com (91 ms)
+SUCCESS: gamepsvita.com (27 ms)
+SUCCESS: gaybodyblog.com (27 ms)
+SUCCESS: gba4iosapp.com (31 ms)
+FAIL: gmxwnlajnl
+SUCCESS: gucenmez.com (39 ms)
+SUCCESS: gvowebcast.com (31 ms)
+FAIL: heygal.net
+SUCCESS: hivelocitymedia.com (35 ms)
+SUCCESS: horn-elektronik.com (23 ms)
+SUCCESS: hotel.ch (31 ms)
+SUCCESS: huhgmbh.com (307 ms)
+SUCCESS: hznzcn.com (447 ms)
+SUCCESS: i12.de (459 ms)
+FAIL: isatap
+FAIL: isilon
+FAIL: itattoos.org
+SUCCESS: jabeye.org (359 ms)
+SUCCESS: jcwcn.com (867 ms)
+FAIL: k-dsl.de
+SUCCESS: ku.edu (339 ms)
+FAIL: lacuentaperdida.org
+FAIL: lgmonitorreview.nl
+SUCCESS: lighthouse.cc (27 ms)
+SUCCESS: likeminded.ca (27 ms)
+SUCCESS: ljyelectronic.com (1251 ms)
+FAIL: lookpage.org
+SUCCESS: mattselznick.com (375 ms)
+SUCCESS: meintrendyhandy.de (463 ms)
+SUCCESS: metabans.com (347 ms)
+FAIL: motiie.com
+SUCCESS: mplus.hk (491 ms)
+SUCCESS: mpskota.com (91 ms)
+FAIL: mptrmkwart
+SUCCESS: mumphi.de (671 ms)
+SUCCESS: newpages2u.com (163 ms)
+SUCCESS: nipslab.org (23 ms)
+SUCCESS: nucre.com (1187 ms)
+SUCCESS: oberoncompany.com (359 ms)
+FAIL: obtscan.com
+SUCCESS: ohdev.co.uk (35 ms)
+SUCCESS: ovtoc.com (27 ms)
+FAIL: panaceadream.com
+FAIL: phoenix-music.ru
+SUCCESS: qdushu.com (95 ms)
+FAIL: qingjiaopidaiji.com
+SUCCESS: raqualia.com (175 ms)
+SUCCESS: redcrosseth.org (27 ms)
+SUCCESS: rousing.dk (27 ms)
+FAIL: sandieskorner.com
+SUCCESS: seedy.dk (923 ms)
+FAIL: simple-health-reports.com
+FAIL: sinemagrafik.com
+SUCCESS: sscw.ee (27 ms)
+FAIL: stopallthathating.com
+FAIL: supreetsethi.net
+SUCCESS: thankfullyyours.com (87 ms)
+SUCCESS: thereeftank.com (87 ms)
+SUCCESS: thunderex.com (91 ms)
+SUCCESS: ticketbis.com (31 ms)
+SUCCESS: tomorrowsreflection.com (91 ms)
+SUCCESS: tonaci.com (27 ms)
+SUCCESS: topilehtipuu.com (319 ms)
+SUCCESS: tretsomshop.nl (307 ms)
+SUCCESS: tsksv.ru (819 ms)
+SUCCESS: uanet.net (451 ms)
+SUCCESS: udoo24.com (35 ms)
+SUCCESS: vaco.ru (879 ms)
+FAIL: valerievandenbroek.nl
+SUCCESS: visualtap.com (355 ms)
+FAIL: volksschule-neufahrn.de
+SUCCESS: webxtrap.com (439 ms)
+SUCCESS: womenology.com (31 ms)
+FAIL: wpad
+FAIL: xqgcab.com
+FAIL: youngsnetwork.it
+SUCCESS: zamlelova.ru (2115 ms)
+SUCCESS: zilch.org (667 ms)
+-------------------------------------
+Task B: Baseline Measurement Summary
+-------------------------------------
+Total Queries: 106
+Successful Resolutions: 73
+Failed Resolutions: 33
+Average Lookup Latency: 321.68 ms
+Average Throughput: 3.10 queries/sec

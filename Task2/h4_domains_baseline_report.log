@@ -1,0 +1,117 @@
+--- Starting Task B Baseline Measurement ---
+Using Domain File: h4_domains.txt
+------------------------------------------
+FAIL: 120shenbing.com
+SUCCESS: 22hotmail.com (87 ms)
+SUCCESS: 2xfzy.com (607 ms)
+FAIL: 7apcrshrmanila.org
+SUCCESS: abhair.com (679 ms)
+SUCCESS: adverman.com (467 ms)
+FAIL: alb-automobiles.com
+SUCCESS: ana-sofia.pt (855 ms)
+SUCCESS: arrabonet.hu (467 ms)
+SUCCESS: auto-klad.ru (767 ms)
+SUCCESS: b2b2c.ca (639 ms)
+SUCCESS: bhhsneproperties.com (75 ms)
+FAIL: boh10suphanburi.com
+FAIL: boneshoppe.com
+SUCCESS: breezelaw.com (359 ms)
+SUCCESS: c0.pl (451 ms)
+SUCCESS: capequilog.com (863 ms)
+FAIL: carolgraykennedy.com
+SUCCESS: celerity.com (75 ms)
+SUCCESS: cellslider.net (79 ms)
+SUCCESS: closerdiets.com (79 ms)
+SUCCESS: contentremarketing.com (375 ms)
+FAIL: daytimeghosthunter.com
+SUCCESS: deine-bahn.de (255 ms)
+FAIL: divefishhouse.com
+SUCCESS: djbarryblends.com (355 ms)
+FAIL: djoncbjcmv
+SUCCESS: dmg-dental.com (647 ms)
+SUCCESS: empclan.com (563 ms)
+FAIL: ereadz.com
+SUCCESS: florenseusa.com (167 ms)
+FAIL: frasesdemotivacao.net
+FAIL: freepornvideosx.com
+FAIL: gaplex.biz
+SUCCESS: gardeninginflorida.com (131 ms)
+FAIL: gmxwnlajnl
+SUCCESS: go2jump.com (135 ms)
+SUCCESS: godo.co.kr (283 ms)
+SUCCESS: grandcanyongrandhotel.com (71 ms)
+SUCCESS: greens.my (75 ms)
+SUCCESS: gurukulonline.com (67 ms)
+SUCCESS: gustissimo.it (63 ms)
+SUCCESS: hackthissite.org (67 ms)
+SUCCESS: ilikecrochet.com (83 ms)
+SUCCESS: iointegrators.com (95 ms)
+FAIL: irflashgame.com
+FAIL: isatap
+FAIL: isilon
+SUCCESS: itgeorgia.co (375 ms)
+FAIL: jacquelinemertz.ch
+SUCCESS: kanoon-ansar.org (135 ms)
+SUCCESS: kiyimuzik.com (351 ms)
+SUCCESS: koopsmodellbau.de (459 ms)
+SUCCESS: lespetiteschoses.com (259 ms)
+SUCCESS: livescan4all.com (67 ms)
+SUCCESS: magic-illusion.ru (343 ms)
+SUCCESS: majorleaguelacrosse.com (79 ms)
+SUCCESS: medintime.ru (535 ms)
+SUCCESS: meditekyazilim.net (563 ms)
+SUCCESS: megi.cz (351 ms)
+SUCCESS: millionfareast.com (131 ms)
+SUCCESS: miscellaneousheathen.com (67 ms)
+FAIL: mptrmkwart
+SUCCESS: msf.be (91 ms)
+FAIL: muhammedmusa.com
+SUCCESS: myface.com (71 ms)
+SUCCESS: myfantasticpark.es (447 ms)
+FAIL: ngoanhien.com
+SUCCESS: njafe.org (447 ms)
+SUCCESS: oberandsons.com (327 ms)
+SUCCESS: ok-magazine.ru (503 ms)
+SUCCESS: onetoshop.nl (75 ms)
+SUCCESS: oneworldinfo.com (443 ms)
+SUCCESS: originalmagicart.com (131 ms)
+SUCCESS: overseasmedical.com (651 ms)
+SUCCESS: pces.in (79 ms)
+SUCCESS: pilsnerurquell.com (71 ms)
+SUCCESS: ranocchi.it (67 ms)
+SUCCESS: roche-applied-science.com (63 ms)
+SUCCESS: rolflouisville.com (67 ms)
+SUCCESS: rositehost.com (499 ms)
+SUCCESS: rubenquinones.com (131 ms)
+SUCCESS: saharaimport.com (583 ms)
+FAIL: sapendolo.it
+SUCCESS: sf-notifications.com (131 ms)
+SUCCESS: silkroadtours.com (127 ms)
+SUCCESS: sipflash.com (127 ms)
+SUCCESS: sitiweb.us (63 ms)
+FAIL: skplus.kr
+SUCCESS: solcredito.es (71 ms)
+SUCCESS: stark.dk (67 ms)
+SUCCESS: supportpabiomass.org (447 ms)
+SUCCESS: sweathelp.org (63 ms)
+FAIL: theexoticpersian.com
+SUCCESS: thepropertyvault.co.uk (131 ms)
+FAIL: tripladoppia.com
+SUCCESS: ugotrelis.com (459 ms)
+SUCCESS: valdo.com (67 ms)
+SUCCESS: viahttps.com (659 ms)
+SUCCESS: videofun.me (91 ms)
+SUCCESS: vinayaprabha.com (319 ms)
+FAIL: wiltpr.com
+SUCCESS: wordai.com (71 ms)
+FAIL: wpad
+FAIL: xxx-muschis.de
+FAIL: yunpda.com
+-------------------------------------
+Task B: Baseline Measurement Summary
+-------------------------------------
+Total Queries: 106
+Successful Resolutions: 77
+Failed Resolutions: 29
+Average Lookup Latency: 277.07 ms
+Average Throughput: 3.60 queries/sec
